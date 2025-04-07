@@ -1,0 +1,42 @@
+header {
+	color:#f80333;
+	background-color:#000000;
+	text-align:center;
+}
+img {
+	text-align:left;
+	height:200px;
+	width:200px;
+	padding-top:50px;
+	padding-bottom:0px;
+}
+main p {
+	text-align:center;
+	display:inline;
+}
+a link {
+	text-align:center;
+}
+footer {
+	text-align:center;
+	background-color:#000000;
+	color:#F80333;
+}
+.restaurant-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  min-height: 300px;
+}
+
+.restaurant-info {
+  text-align: center;
+}
+footer img {
+	height:300px;
+	width:300px;
+}
+html {
+	font-family:Arial, Helvetica, Sans-serif;
+}
